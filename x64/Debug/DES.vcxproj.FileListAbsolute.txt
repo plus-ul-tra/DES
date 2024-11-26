@@ -1,0 +1,2 @@
+C:\Users\gksdn\OneDrive\바탕 화면\Csharp\DES\x64\Debug\DES.exe
+C:\Users\hong\OneDrive\바탕 화면\DES\x64\Debug\DES.exe
